@@ -1,0 +1,25 @@
+.errormsg {
+    color: black;
+    /* font-style: italic; */
+  }
+.form {
+   width: 30%;
+   margin: 20px auto;
+   background-color: white;
+   border-radius: 10px;
+   padding: 10px;
+   border: 1px solid black;
+}
+.form textarea,
+.form input,
+.form select {
+    width: 90%;
+    margin-bottom: 20px;
+    padding: 10px 5px;
+    /* border: 1px solid #dedede; */
+    outline: none;
+}
+.form textarea{
+  height: 30px;
+}
+  
